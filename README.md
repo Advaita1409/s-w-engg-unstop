@@ -17,3 +17,4 @@ nearby seats are booked.
     2. Seats are numbered from 1 to 80.
     3. The application will allow users to book seats in groups of 1 to 7.
     4. Some seats are already booked, and this information will be hardcoded for this example.
+    
